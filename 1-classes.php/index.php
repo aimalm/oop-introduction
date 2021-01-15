@@ -1,0 +1,1 @@
+<?php require './class.php'; ?>
